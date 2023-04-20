@@ -1,0 +1,12 @@
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.qmd
+*.yml
+*.scss
+
+_extensions/
+/.quarto/
