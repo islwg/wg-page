@@ -9,4 +9,5 @@
 *.scss
 
 _extensions/
+references/
 /.quarto/
