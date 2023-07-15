@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "publications.html#section-1",
-    "href": "publications.html#section-1",
-    "title": "Publications",
-    "section": "2022",
-    "text": "2022\nSverdlov, O., Ryeznik, Y., Leonov, S., Fedorov, V. (2022) “Statistical approaches in the development of digital therapeutics” in Digital Therapeutics: Strategic, Scientific, Developmental, and Regulatory Aspects, chapter 6, Chapman and Hall/CRC.  url"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Anastasia Ivanova (University of North Carolina at Chapel Hill)\nElvis Han Cui (University of California Los Angeles)\nOleksandr Sverdlov (Novartis)\nSergei Leonov (CSL Behring)\nValerii Fedorov (Independent Consultant)\nYevgen Ryeznik (Johnson & Johnson)"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
@@ -21,10 +7,24 @@
     "text": "Welcome to Integrated Scientific Learning Working Group (ISLWG)."
   },
   {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\nSverdlov, O., Ryeznik, Y., Leonov, S., Fedorov, V. (2022) “Statistical approaches in the development of digital therapeutics” in Digital Therapeutics: Strategic, Scientific, Developmental, and Regulatory Aspects, chapter 6, Chapman and Hall/CRC.  url"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We are a group of scientist and researchers from both industry and academia passionate about solving complex, multi-dimensional problems in drug development using scientifically rigorous approaches based on mathematical and statistical modeling, and novel data analytic techniques based on artificial intelligence and machine learning.\nWe see value in integration of scientific fields, collaborative research, and promotion of the philosophy of statistical thinking and statistical leadership in drug development."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "We are a group of scientist and researchers from both industry and academia passionate about solving complex, multi-dimensional problems in drug development using scientifically rigorous approaches based on mathematical and statistical modeling, and novel data analytic techniques based on artificial intelligence and machine learning."
+    "text": "Anastasia Ivanova (University of North Carolina at Chapel Hill)\nElvis Han Cui (University of California Los Angeles)\nOleksandr Sverdlov (Novartis)\nSergei Leonov (CSL Behring)\nValerii Fedorov (Independent Consultant)\nYevgen Ryeznik (Johnson & Johnson)"
   }
 ]
